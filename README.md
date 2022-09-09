@@ -1,3 +1,5 @@
+* Some additions/revisions to the PigeonXT fork of Pigeon.
+
 # 🐦 pigeonXT - Quickly annotate data in Jupyter Lab
 PigeonXT is an extention to the original [Pigeon](https://github.com/agermanidis/pigeon), created by [Anastasis Germanidis](https://pypi.org/user/agermanidis/).
 PigeonXT is a simple widget that lets you quickly annotate a dataset of
